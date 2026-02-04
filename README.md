@@ -1,7 +1,8 @@
 # Live Store Annual Report 2024
 
 ## 📊 Dashboard Preview
-<img width="886" height="494" alt="Power BI Desktop 03-02-2026 22_33_36" src="https://github.com/user-attachments/assets/f1a49123-5bec-4cfe-986d-467b4e5e1b0e" />
+<img width="967" height="424" alt="lives Store Data Analysis - Excel 03-02-2026 23_04_53" src="https://github.com/user-attachments/assets/ab4b292d-d8ca-4f19-8eb3-dbea27216211" />
+
 
 
 ## 🚀 Quick Insights
